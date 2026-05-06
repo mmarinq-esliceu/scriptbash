@@ -23,6 +23,6 @@ do
     suma=$((suma+i))
 done
 
-echo "la suma de los numeros pares entre 1 y $n vale $suma"
+echo "la suma de los numeros impares entre 1 y $n vale $suma"
 
 exit 0
